@@ -21,58 +21,69 @@
  </div>
  <div class="carousel-inner">
  <div class="carousel-item active">
- <img src="images/n3.jpeg" class="d-block w-90" alt="...">
+ <img src="images/n4.jpeg" class="d-block w-90" alt="...">
  </div>
  <div class="carousel-item">
-      <img src="images/n2.jpeg" class="d-block w-90" alt="...">  
+      <img src="images/n1.jpeg" class="d-block w-90" alt="...">  
       </div>
       <div class="carousel-item">
-      <img src="images/n1.jpeg" class="d-block w-90" alt="...">
+      <img src="images/n2.jpeg" class="d-block w-90" alt="...">
       </div>
       <div class="carousel-item">
-      <img src="images/n4.jpeg" class="d-block w-90" alt="...">
+      <img src="images/n3.jpeg" class="d-block w-90" alt="...">
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Previous</span>
       </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-  <span class="visually-hidden">Next</span><br>
-  </button><br>
-  </div><br><br>
-      <table style="border-collapse: collapse; font-family: 'Times New Roman', Times, serif;" border="1px" width="100%">
-      <tbody><tr>
-      <td style="'Times New Roman', Times, serif; text-align: center; background-color: #ffe100;"><a href="productos.html" style="text-decoration: none; color: rgb(28, 27, 23);"><b>PRODUCTOS</b></a></td>
-      <td style="'Times New Roman', Times, serif; text-align: center; background-color: #00aeff;"><a href="tiendas.html" style="text-decoration: none; color: rgb(28, 27, 23);"><b>TIENDAS</b></a></td>
-      <td style="'Times New Roman', Times, serif; text-align: center; background-color: #0c5bb0;"><a href="contacto/.html" style="text-decoration: none; color: rgb(30, 28, 27);"><b>CONTACTENOS</b></a></td>
-    </tr>
-  </tbody></table><br><br>
+     <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+     <span class="carousel-control-next-icon" aria-hidden="true"></span>
+     <span class="visually-hidden">Next</span><br>
+     </button>
+     </div><br><br>
+     <div class="row" align="center" style="font-family: Arial, Helvetica, sans-serif;">
+        <div class="col border border-light" style="background-color: #c2ef0e ;">
+            <p></p>
+            <a href="productos.php" style="text-decoration: none; color: rgb(255, 255, 255);"><b>PRODUCTOS</b></a>
+            <p></p>
+        </div>
+        <div class="col border border-light" style="background-color: #f5c809 ;">
+            <p></p>
+            <a href="tiendas.php" style="text-decoration: none; color: rgb(255, 255, 255);"><b>TIENDAS</b></a>
+            <p></p>
+        </div>
+        <div class="col border border-light " style="background-color: #f18604 ;">
+            <p></p>
+            <a href="precaución.php" style="text-decoration: none; color: rgb(255, 255, 255);"><b>CONTÁCTENOS</b></a>
+            <p></p>
+        </div>
+      </div>
+      <br>
         </tr>
         <td colspan="12" align="left"><br>
                 <h3 style="color: black;"><b>NUESTRAS OFERTAS DE MES</b></h3>
             </td>
     </table><br>
     <div class="contenedor">
-        <section class="a" align="center"><a href="images/logo.png"><img src="images/adidas.png" width="330px" height="300px"></a></section>
+        <section class="a" align="center"><a href="images/adidas.png"><img src="images/adidas.png" width="330px" height="300px"></a></section>
         <section class="b" align="center"><img src="images/zaa1.jpg" width="300px" height="250px"></section>
         <section class="c" align="center"><img src="images/zaa2.jpg" width="300px" height="250px"></section>
         <section class="d" align="center"><img src="images/zaa3.jpg" width="300px" height="200px"></section>
     </div>
     <table align="center" width="100%">
-        <tr style="background-color: white;">
+        <tr style="background-white: black;">
             <td colspan="3" align="left">
-                <h6 style="color: withe;"><b>PBX: XXXXX-XXXXX</b> </h6>
+                <h6 style="color: black;"><b>PBX: XXXXX-XXXXX</b> </h6>
             </td>
             <td colspan="3" align="right">
-                <h6 style="color:withe  left;"><b>Dirección: XXXXX-XXXXX-XXXX</b></h6>
+                <h6 style="color: left;"><b>Dirección: XXXXX-XXXXX-XXXX</b></h6>
             </td>
             <td colspan="3" align="right">
                 <h6><b>Carné: 2018-40162</b></h6>
             </td>
             <td colspan="4">.</td>
             <td colspan="3" align="right">
-                <h6><b>Jorge Luis Alvarado Crispin </b></h6>
+                <h6><b>Nombre: JOrge Luis Alvarado Crispin</b></h6>
             </td>
         </tr>
     </table>
