@@ -7,6 +7,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="diseño1.css">
     <link rel="stylesheet" href="diseño2.css">
+    <link rel="shortcut icon" type="images/ad.ico" href="./favicon.ico">
     <title>Adidas</title>
 </head>
 <table width="100%">
@@ -42,23 +43,23 @@
      </button>
      </div><br><br>
      <div class="row" align="center" style="font-family: Arial, Helvetica, sans-serif;">
-        <div class="col border border-light" style="background-color: #c2ef0e ;">
+        <div class="col border border-light" style="background-color:#000000 ;">
             <p></p>
             <a href="productos.php" style="text-decoration: none; color: rgb(255, 255, 255);"><b>PRODUCTOS</b></a>
             <p></p>
         </div>
-        <div class="col border border-light" style="background-color: #f5c809 ;">
+        <div class="col border border-light" style="background-color: #000000 ;">
             <p></p>
             <a href="tiendas.php" style="text-decoration: none; color: rgb(255, 255, 255);"><b>TIENDAS</b></a>
             <p></p>
         </div>
-        <div class="col border border-light " style="background-color: #f18604 ;">
+        <div class="col border border-light " style="background-color: #000000 ;">
             <p></p>
-            <a href="precaución.php" style="text-decoration: none; color: rgb(255, 255, 255);"><b>CONTÁCTENOS</b></a>
+            <a href="contacto.php" style="text-decoration: none; color: rgb(255, 255, 255);"><b>CONTÁCTENOS</b></a>
             <p></p>
         </div>
       </div>
-      <br>
+      <br> <br>
         </tr>
         <td colspan="12" align="left"><br>
                 <h3 style="color: black;"><b>NUESTRAS OFERTAS DE MES</b></h3>
@@ -73,17 +74,17 @@
     <table align="center" width="100%">
         <tr style="background-white: black;">
             <td colspan="3" align="left">
-                <h6 style="color: black;"><b>PBX: XXXXX-XXXXX</b> </h6>
+                <h6 style="color: black;"><b>PBX: 4496 0151</b> </h6>
             </td>
             <td colspan="3" align="right">
-                <h6 style="color: left;"><b>Dirección: XXXXX-XXXXX-XXXX</b></h6>
+                <h6 style="color: left;"><b>Dirección: C.c. Oakland Mall, Diag. 6 13-01, Cdad. de Guatemala 01010</b></h6>
             </td>
             <td colspan="3" align="right">
                 <h6><b>Carné: 2018-40162</b></h6>
             </td>
             <td colspan="4">.</td>
             <td colspan="3" align="right">
-                <h6><b>Nombre: JOrge Luis Alvarado Crispin</b></h6>
+                <h6><b>Nombre: Jorge Luis Alvarado Crispin</b></h6>
             </td>
         </tr>
     </table>

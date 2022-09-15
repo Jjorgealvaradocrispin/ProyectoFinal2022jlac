@@ -2,7 +2,7 @@
 $usu=$_POST['usuario'];
 $cont=$_POST['contraseña'];
 
-if ($usu == 'LCP' and $cont == '123') {
+if ($usu == 'lcp' and $cont == '123') {
     echo '<script language="javascript">alert("USUARIO Y CONTRASEÑA CORRECTA BIENVENIDO");
     window.location.href="princi.php"</script>';
 } else {

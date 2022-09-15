@@ -1,9 +1,9 @@
 <?php
 session_start();
-$conectar=mysqli_connect(
+$conn=mysqli_connect(
     'localhost',
     'root',
     '',
-    'campero'
+    'pcc2022_evalfinal'
 );
 ?>

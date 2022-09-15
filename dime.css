@@ -1,0 +1,84 @@
+body {
+    background: white;
+    font-family: monospace;
+  }
+  
+  .container-table{
+    width: 90%;
+    background: white;
+    margin: 50px auto;
+    display: grid;
+    grid-template-columns: repeat(3, 22%);
+    grid-auto-rows: 100%;
+  }
+  
+  .table__title{
+   grid-column-start: 7 ;
+   grid-column-end: 7;
+  
+    background: rgb(0, 0, 0);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.9em;
+  }
+  
+  .table_header, .table_item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .table__header{
+    font-weight: bold;
+    font-size: 1.5em;
+  }
+  
+  .table__item{
+    padding: 10px;
+    font-size: 1.2em;
+  }
+  
+  
+  
+  
+  
+  
+  .btn1{
+      background-color: rgb(225, 45, 45);
+      border: 10px;
+      padding: 25px 100px;
+      text-align: center;
+      color: aliceblue;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+  }
+  
+  .btn2{
+      background-color: skyblue;
+      border: 10px;
+      padding: 25px 200px;
+      text-align: center;
+      color: aliceblue;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+  }
+  
+  .btn3{
+      background-color: purple;
+      border: 10px;
+      padding: 25px 170px;
+      text-align: center;
+      color: aliceblue;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+  }
+  
+  #pdf{
+    position: absolute; top: 14%; left: 95%;
+  }
